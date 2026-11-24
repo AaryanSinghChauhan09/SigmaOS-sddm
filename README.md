@@ -107,3 +107,8 @@ to set DPI to 192.
 
 As an alternative you can edit Xorg configuration ``xorg.conf``, please refer to the
 Xorg documentation.
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-sddm) - Full Wiki documentation for all SigmaOS components
