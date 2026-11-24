@@ -1,6 +1,6 @@
 # fk-sddm
 
-> Forked from omacom/sddm (MIT). See `SIGMAOS_FORK.md`.
+> Forked from SigmaOS/sddm (MIT). See `SIGMAOS_FORK.md`.
 
 [![IRC Network](https://img.shields.io/badge/irc-freenode-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=sddm)
 
